@@ -1,0 +1,25 @@
+# 项目文档
+
+## 目录说明
+
+```text
+├── developer_guide                        # 开发者指南
+│   ├── architecture_overview.md
+│   ├── aclgraph_migration_and_adaptation_guide.md
+│   └── ...
+├── feature                                # 特性文档
+│   ├── expert_parallel.md
+│   ├── ...
+├── user_guide
+│   ├── user_manual                        # LLM用户指南
+│   │   ├── service_parameter_configuration.md
+│   │   ├── offline_inference.md
+│   │   ├── ...
+│   ├── quick_start                        # 快速入门
+│   ├── install                            # 安装指南
+│   ├── feature                            # 特性
+├── figures                                # 图片目录
+├── model_support_list.md                  # 模型列表
+├── faq                                    # FAQ
+└── ...
+```
